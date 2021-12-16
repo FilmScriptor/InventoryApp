@@ -1,0 +1,7 @@
+C:\Users\Yui\Downloads\ManageProduct\publi\ManageProduct.exe
+C:\Users\Yui\Downloads\ManageProduct\publi\appsettings.Development.json
+C:\Users\Yui\Downloads\ManageProduct\publi\appsettings.json
+C:\Users\Yui\Downloads\ManageProduct\publi\ManageProduct.dll
+C:\Users\Yui\Downloads\ManageProduct\publi\ManageProduct.deps.json
+C:\Users\Yui\Downloads\ManageProduct\publi\ManageProduct.runtimeconfig.json
+C:\Users\Yui\Downloads\ManageProduct\publi\ManageProduct.pdb
